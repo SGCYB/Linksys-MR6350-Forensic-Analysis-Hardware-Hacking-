@@ -152,4 +152,4 @@ This analysis demonstrates the ease of accessing a router's internal systems wit
 
 This investigation successfully identified the serial interface of the Linksys MR6350 router, established terminal access via UART, and captured boot-time activity using a combination of hardware and software tools. This project serves as a foundational step into hardware hacking and embedded system analysis.
 
-Thank you for taking the time to read over my analysis! This is one of many projects that will be posted. I hope to do more simmiliar projects in the future. 
+Thank you for taking the time to read over my analysis! This is one of many projects that will be posted. I hope to do more similiar projects in the future. 
