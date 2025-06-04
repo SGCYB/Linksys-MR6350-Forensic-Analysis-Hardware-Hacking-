@@ -137,7 +137,7 @@ During the boot process I saw a message that stated the factory SSID of the rout
 **Reset Button Behavior**
 
 
-As an experiment, the physical reset button was pressed during boot. This action was captured in real-time on PuTTY, showing a reset countdown and a message regarding a reset event detected. It was interesting to see what the happens behind the scenes when you reset your router and wait for it to boot up. 
+As an experiment, the physical reset button was pressed during boot. This action was captured in real-time on PuTTY, showing a reset countdown and a message regarding a reset event detected. It was interesting to see what happens behind the scenes when you reset your router and wait for it to boot up. 
 
 <img width="344" alt="resetcountdown" src="https://github.com/user-attachments/assets/56f47e92-5942-484b-a27e-1ec8cd0f0821" />
 
@@ -145,7 +145,7 @@ As an experiment, the physical reset button was pressed during boot. This action
 **Security Implications**
 
 
-This analysis demonstrates the ease of accessing a router's internal systems with physical access and basic tools. It is definently an uncommomn point of entry but it is still something to think about. In enterprise environments, it is very common to see the use of secure physical storage—such as locked network cabinets—to protect infrastructure hardware from untrusted hands. 
+This analysis demonstrates the ease of accessing a router's internal systems with physical access and basic tools. It is definently an uncommon point of entry but it is still something to think about. In enterprise environments, it is very common to see the use of secure physical storage—such as locked network cabinets—to protect infrastructure hardware from untrusted hands. 
 
 **Conclusion**
 
